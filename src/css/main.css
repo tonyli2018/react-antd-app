@@ -1,0 +1,39 @@
+#components-layout-demo-side .logo {
+  height: 32px;
+  margin: 16px;
+  background: rgba(255, 255, 255, 0.3);
+}
+
+.site-layout .site-layout-background {
+  background: #fff;
+}
+
+.img {
+  background-color: rgb(255, 255, 255);
+  height: auto;
+  float: left;
+  height: 45px;
+  margin: 0px 0px 0px 40px;
+}
+.header {
+  border-bottom: 3px solid rgb(161, 32, 36);
+}
+
+/* table */
+.ant-table {
+  font-size: 9px;
+}
+
+/* row data */
+.ant-table-tbody > tr > td {
+  height: 5px;
+  padding: 4px;
+}
+/* row tags */
+.my-tag {
+  font-size: 12px;
+}
+.ant-table-thead > tr > th {
+  height: 5px;
+  padding: 4px;
+}
